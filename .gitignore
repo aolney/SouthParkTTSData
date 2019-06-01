@@ -1,1 +1,5 @@
 .ipynb_checkpoints/
+shell.log
+.sos/
+*.tsv
+forced-alignment-test-files/
