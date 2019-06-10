@@ -3,3 +3,5 @@ shell.log
 .sos/
 *.tsv
 forced-alignment-test-files/
+doAlign/*.exe
+characters.txt
