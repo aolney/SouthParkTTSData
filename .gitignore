@@ -5,3 +5,5 @@ shell.log
 forced-alignment-test-files/
 doAlign/*.exe
 characters.txt
+img_data/
+audioFeatures.csv
